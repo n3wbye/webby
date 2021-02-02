@@ -12,7 +12,7 @@ This type of authentication is called client authentication because SSL show its
 
 ### References
 
-- [\[PRACTICE] Apache Web Server Authentication](https://linuxconfig.org/apache-web-server-ssl-authentication)
+- [\[PRACTICE\] Apache Web Server Authentication](https://linuxconfig.org/apache-web-server-ssl-authentication)
 - [HTTPS client certificate authentication security issues. Part 1/3](https://d0znpp.medium.com/https-client-certificate-authentication-security-issues-part-1-3-ae59514357b1)
 - [HTTPS client certificate authentication security issues. Part 2/3](https://d0znpp.medium.com/https-client-certificate-authentication-security-issues-part-2-3-5a19367cc698)
 
