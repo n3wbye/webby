@@ -1,17 +1,15 @@
-## Tools
+## SSL Checklist for Pentester
+- [SSL/TLS Vulnerabilities book.hacktricks.xyz](https://book.hacktricks.xyz/pentesting/pentesting-web#step-by-step-web-application-testing)
+- [SSL Checklist for Pentester by Jeromy Smith (2014)](https://research.nccgroup.com/wp-content/uploads/2020/07/ssl-checklist-for-pentesters-bsides-mcr.pdf)
+- [Awesome SSL/TLS Hacks](https://github.com/lennysec/awesome-tls-hacks)
+
+## General Tools
 - [nmap](https://www.tenable.com/products/nessus)
 - [sslyze](https://github.com/nabla-c0d3/sslyze)
 - [ssllabs](https://www.ssllabs.com/ssltest/)
 - [testssl.sh](https://github.com/drwetter/testssl.sh)
 - [a2sv](https://github.com/hahwul/a2sv)
 - [nessus](https://www.tenable.com/products/nessus)
-
-
-## SSL Checklist for pentester
-- [SSL/TLS Vulnerabilities book.hacktricks.xyz](https://book.hacktricks.xyz/pentesting/pentesting-web#step-by-step-web-application-testing)
-- [SSL Checklist for Pentester by Jeromy Smith (2014)](https://research.nccgroup.com/wp-content/uploads/2020/07/ssl-checklist-for-pentesters-bsides-mcr.pdf)
-- [Awesome SSL/TLS Hacks](https://github.com/lennysec/awesome-tls-hacks)
-
 
 ## Details Vulnerabilities
 
