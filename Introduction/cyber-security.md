@@ -16,7 +16,7 @@
 # Mindset Engineer
 
 |Good Engineer  | Bad Engineer  |
-|:-------------:|:-------------:|
+|-------------|-------------|
 | initiative    | waiting for instructions |
 | try to be better | feel satisfied with himself |
 | creative | chaotic |
