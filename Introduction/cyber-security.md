@@ -17,19 +17,19 @@
 
 |Good Engineer  | Bad Engineer  |
 |-------------|-------------|
-| initiative    | waiting for instructions |
-| try to be better | feel satisfied with himself |
-| creative | chaotic |
-| discipline | chaos |
-| asking something you don't know| afraid to ask |
-| patient | easly offended |
-| put the team first (will lead to individual success) | selfish |
-| build good relationships | blocking himself with others |
-| know the customer well | uderestimating the customer |
-| resppect for other | greedy for respect |
-| learn from mistakes | deny mistakes |
-| learn and develop | solving "yesterday’s problems" using "last week’s techniques" |
-| be a friend to other engineers | stingy to share |
+| Initiative    | Waiting for instructions |
+| Try to be better | Feel satisfied with himself |
+| Creative | Chaotic |
+| Discipline | Messy |
+| Asking something you don't know | Afraid to ask |
+| Patient | Easily offended |
+| Put the team first (will lead to individual success) | Selfish |
+| Build good relationships | Blocking himself with others |
+| Know the customer well | Underestimating the customer |
+| Respect for other | Greedy for respect |
+| Learn from mistakes | Deny mistakes |
+| Learn and develop | Solving "yesterday’s problems" using "last week’s techniques" |
+| Be a friend to other engineers | Stingy to share |
 
 # How to Ask
 
@@ -47,10 +47,10 @@
 
 # Introduction to Cyber Security
 
-- [Cyber Security](https://searchsecurity.techtarget.com/definition/cybersecurity)
-- [\[VIDEO\] The Internet: Cybersecurity & Crime](https://www.youtube.com/watch?v=AuYNXgO_f3Y)
+- [What is Cyber Security?](https://searchsecurity.techtarget.com/definition/cybersecurity)
+- [The Internet: Cybersecurity & Crime](https://www.youtube.com/watch?v=AuYNXgO_f3Y)
 
-## Basically consift of
+## Basically consist of
 
 - **Computer security** - all kind of computers, embedded, IoT, etc
 - **Network security** - all network jargons including wireless and wired
@@ -61,21 +61,21 @@
 
 # Thorwback 10+ years
 
-- 2007: Estonia Cyber Attack
-- 2007: The Red October first launch (allegedly)
-- 2009: Sandworm first launch (allegedly)
-- 2010: Stuxnet discovered 
-- 2012: Red October first discovered
-- [2013: Australia sadap SBY](http://eprints.umm.ac.id/39782/3/BAB%20II.pdf)
-- 2014: Sandworm discovered
-- 2014: Ebay Hacked
-- 2014: Sony Hacked
-- 2015: Ashley Madison Hacked
-- 2016: Linkedin, Tumblr and MySpace Hacked
-- 2016: Yahoo massive data breach
-- 2017: WannaCrypt
-- 2019: Daya Breach Bukalapak
-- 2020: Data Breach Tokopedia
+- [2007: Estonia Cyber Attack](https://www.merdeka.com/teknologi/kasus-estonia-dan-georgia-jadi-sejarah-kelam-cyber-crime-dunia.html)
+- [2007: The Red October first launch (allegedly)](https://www.bbc.com/news/technology-21013087)
+- [2009: Sandworm first launch (allegedly)](https://www.vanityfair.com/news/2019/10/the-discovery-of-sandworm-the-worlds-most-dangerous-hackers)
+- [2010: Stuxnet discovered](https://spectrum.ieee.org/telecom/security/the-real-story-of-stuxnet) 
+- [2012: Red October first discovered](https://en.wikipedia.org/wiki/Red_October_(malware))
+- [2013: Australia spied on Indonesian president Susilo Bambang Yudhoyono](http://eprints.umm.ac.id/39782/3/BAB%20II.pdf)
+- [2014: Sandworm discovered](https://www.infosecurity-magazine.com/news/microsoft-zero-day-traced-russian/)
+- [2014: Ebay Hacked](https://www.bankinfosecurity.com/ebay-a-6858)
+- [2014: Sony Hacked](https://en.wikipedia.org/wiki/Sony_Pictures_hack)
+- [2015: Ashley Madison Hacked](https://krebsonsecurity.com/2015/07/online-cheating-site-ashleymadison-hacked/)
+- [2016: Linkedin, Tumblr and MySpace Hacked](https://wikibreach.org/home/2016/6/5/linkedin-tumblr-and-myspace-hacked-by-same-hackers)
+- [2016: Yahoo massive data breach](https://en.wikipedia.org/wiki/Yahoo!_data_breaches)
+- [2017: WannaCrypt](https://id.wikipedia.org/wiki/Serangan_perangkat_pemeras_WannaCry)
+- [2019: Data Breach Bukalapak](https://kumparan.com/kumparantech/bukalapak-akui-13-juta-data-yang-dijual-hacker-adalah-peretasan-di-maret-2019-1tMRTr1UR0)
+- [2020: Data Breach Tokopedia](https://www.cnbcindonesia.com/tech/20200504083624-37-155959/hari-ini-tokopedia-jelaskan-kebocoran-91-juta-data-ke-kominfo)
 
 # Why hacking?
 
