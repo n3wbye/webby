@@ -79,7 +79,7 @@
 
 # Why hacking?
 
-- [\[VIDEO\] The Secret Lives of Hackers](https://www.youtube.com/watch?v=DKzi5CYNFAg)
+- [The Secret Lives of Hackers](https://www.youtube.com/watch?v=DKzi5CYNFAg)
 
 # What is needed for hacking?
 
